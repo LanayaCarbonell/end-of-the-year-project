@@ -28,4 +28,7 @@ The command prompt will then ask, *How many?* for for something that runs in OUN
 
 **POTENTIONALLY* I would like to have a command prompt that suggest the food, like a drop down bar, so the user does not need to be SO specific with what they write, or have less typos. 
 
-For ex: A person might be writing TACO BELL, as they are writing TACO BE- the command prompt can simply have a drop down suggestion bar, and probably have a list of no more than 20 suggestions. I will ask Mr.Enrico if that is even possible
+For ex: A person might be writing  BELL, as they are writing TACO BE- the command prompt can simply have a drop down suggestion bar, and probably have a list of no more than 20 suggestions. I will ask Mr.Enrico if that is even possible
+
+
+## A. **_What should I do to start?_** 
