@@ -32,3 +32,9 @@ For ex: A person might be writing  BELL, as they are writing TACO BE- the comman
 
 
 ## A. **_What should I do to start?_** 
+
+First: I want to make a skeleton only for the start of my project. I know that I will have some trouble in trying to place some things where they belong, yet it's only my first skeleton!
+
+Second: Find how to import food database from a specific area! there is over 4 million types of foods that I would have to manually download which will take like MONTHS or even YEARS, so I have to look for the importing of calorie database from a certain database. 
+
+ 
