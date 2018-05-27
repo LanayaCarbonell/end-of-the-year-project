@@ -21,9 +21,3 @@ def main():
     CFF = calculateCalFromFat(userFat)
     CCC = calculateCalFromCarb(userCarb)
     CCP = calculateCalFromProtein(userProtein)
-
-    print("Calories From Fat:" + format(CalFromFat, ".2f"), \
-    "Calories From Carbs:" + format(CalFromCarb, ".2f"), \
-    "Calories From Protein:" + format(CalFromProtein, ".2f"))
-
-main()
